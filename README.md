@@ -1,4 +1,4 @@
-# CSS Ödev-1
+# CSS Ödev-2
 
 Kodluyoruz Eğitimi için CSS konusunda ikinci ödevim.
 
