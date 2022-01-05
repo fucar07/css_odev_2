@@ -1,0 +1,42 @@
+.container {
+    width: 90%;
+    margin:10px auto;
+    text-align: center;
+}
+
+#search {
+    background-color: rgb(218, 215, 215);
+    padding: 10px 0;
+}
+
+#search>p {
+    margin: 0px;
+}
+#search>input[type=text] {
+    width: 300px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.box {
+    width:33%;
+    float:left;
+    margin: 5px 0.33% 0px 0px;
+    padding-top: 5px;
+    height: 100px;
+}
+
+.box1 {
+    background-color: #7EE5DA;
+}
+.box2 {
+    background-color: #70CCC2;
+}
+.box3 {
+    background-color: #62B3AA;
+
+}
+.box3>input[type=text] {
+    width: 150px;
+
+}
